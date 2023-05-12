@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-kanban-59558"
+  },
+  "targets": {
+    "angular-kanban-59558": {
+      "hosting": {
+        "angular-kanban": [
+          "angular-kanban-59558"
+        ]
+      }
+    }
+  }
+}
